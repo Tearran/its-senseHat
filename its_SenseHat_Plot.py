@@ -11,7 +11,7 @@ except ModuleNotFoundError:
   print("install with:")
   print("\tpip3 install plotext")
   plottext_is = 0 
-  print('continuing...") 
+  print("continuing...") 
 else:
   plottext_is = 1
 try:
